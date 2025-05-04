@@ -10,7 +10,8 @@
 ### Squad page
 ![image](https://github.com/user-attachments/assets/3db891ad-681c-4780-baa0-36eda837ad5b)
 ![image](https://github.com/user-attachments/assets/c3f87981-48ec-4d60-b03d-1ae2307908c8)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c24f0fd4-a685-4a0c-a650-7fbcd0238b79)
+
 
 # 🏏 Real-Time IPL Dashboard using CricAPI + Power BI
 
