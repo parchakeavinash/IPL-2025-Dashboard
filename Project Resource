@@ -1,0 +1,17 @@
+📁 Project Resources
+This project combines API data extraction and web scraping to collect and analyze real-time cricket information.
+
+🔗 API Data Source
+Website: CricketData.org
+
+Description: Used to extract structured cricket match data via API.
+
+🕸️ Web Scraped Data
+Website: ESPN Cricinfo
+
+Description: Used to scrape additional information not available via the API, such as live commentary or player insights.
+
+🎨 UI/UX Design Reference
+Website: ESPN Cricinfo
+
+Purpose: Used as a visual and layout reference for designing the user interface.
