@@ -1,5 +1,17 @@
 # IPL-2025-Dashboard
 
+## Project Overview:
+### Home Page
+![image](https://github.com/user-attachments/assets/f05891b3-8a78-4264-8881-2ea90ad479c4)
+### Overview page
+![image](https://github.com/user-attachments/assets/38534b4d-d23a-45fc-ad6e-21ea817083c8)
+### point tabel page
+![image](https://github.com/user-attachments/assets/8b010931-a7ee-4a00-8bd7-8c0dd9545dff)
+### Squad page
+![image](https://github.com/user-attachments/assets/3db891ad-681c-4780-baa0-36eda837ad5b)
+![image](https://github.com/user-attachments/assets/c3f87981-48ec-4d60-b03d-1ae2307908c8)
+![Uploading image.png…]()
+
 # 🏏 Real-Time IPL Dashboard using CricAPI + Power BI
 
 This project demonstrates how to build a **real-time IPL dashboard** by integrating **CricAPI** for live cricket data and **Power BI** for visualization. Additionally, it features custom **HTML Match Cards** using **DAX + HTML** for a professional, live match UI.
@@ -105,6 +117,10 @@ Cards =
 
 ✅ Final Tips
 🔗 Use valid image URLs for team logos
+
+🙌 Acknowledgments
+CricAPI – for real-time cricket data
+Power BI – for visualization
 
 🕒 Use FORMAT() for clean date-time display
 
